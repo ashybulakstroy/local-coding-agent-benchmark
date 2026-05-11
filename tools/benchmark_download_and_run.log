@@ -1,0 +1,9 @@
+[2026-05-10 20:47:50] [INFO] ============================================================
+[2026-05-10 20:47:50] [INFO] Запуск: benchmark без скачивания моделей
+[2026-05-10 20:47:50] [INFO] Лог: C:\Work\Prj_1_AI_Test\tools\benchmark_download_and_run.log
+[2026-05-10 20:47:50] [INFO] PullSet: cpu | Retries: 3 | NoDownload: True
+[2026-05-10 20:47:50] [INFO] ============================================================
+[2026-05-10 20:47:50] [INFO] Benchmark script: C:\Work\Prj_1_AI_Test\tools\model_performance_test_v7.py
+[2026-05-10 20:47:50] [INFO] PULL SKIPPED | benchmark будет запущен без скачивания
+[2026-05-10 20:47:50] [INFO] PYTHON START | py C:\Work\Prj_1_AI_Test\tools\model_performance_test_v7.py --no-pull --model qwen2.5-coder:1.5b --model qwen2.5-coder:3b --model codegemma:2b --model deepseek-coder:1.3b --model starcoder2:3b --model granite-code:3b --model stable-code:3b --model yi-coder:1.5b --model llama3.2:3b --model phi3:mini
+[2026-05-10 21:01:13] [INFO] PYTHON END | exit_code=0

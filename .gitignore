@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Benchmark outputs
+model_performance_test.log
+model_benchmark_ai_report.md
+*.db
+*.sqlite
+cars.db
+
+# Local/editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak

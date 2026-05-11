@@ -1,0 +1,307 @@
+[2026-05-10 20:06:53] [INFO] ============================================================
+[2026-05-10 20:06:53] [INFO] Запуск массовой загрузки моделей для скоринга
+[2026-05-10 20:06:53] [INFO] Лог: C:\Work\Prj_1_AI_Test\tools\download_models.log
+[2026-05-10 20:06:53] [INFO] Максимум попыток на модель: 3
+[2026-05-10 20:06:53] [INFO] ============================================================
+[2026-05-10 20:06:53] [OK] Ollama найден: C:\Users\Shuaib\AppData\Local\Programs\Ollama\ollama.exe
+[2026-05-10 20:06:53] [INFO] Начинаю загрузку: stable-code:3b | попытка 1 из 3
+[?2026h[?25l[1Gpulling manifest таЛ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЩ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╕ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та┤ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таж [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таз [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЗ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таП [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЛ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЩ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╕ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та┤ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таж [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таз [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЗ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таП [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЛ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЩ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╕ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та┤ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 936 KB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 998 KB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 1.4 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 1.8 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 1.9 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 2.4 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 2.6 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 2.9 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 3.2 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 3.7 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 4.1 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 4.4 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 4.6 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 4.9 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 5.4 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 5.6 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 5.9 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 6.2 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 6.6 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 6.7 MB/1.6 GB  3.5 MB/s   7m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 7.2 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 7.4 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 7.6 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   0% тЦХ                  тЦП 8.0 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП 8.3 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП 8.5 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП 8.8 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП 9.2 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП 9.4 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП 9.6 MB/1.6 GB  3.3 MB/s    8m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  10 MB/1.6 GB  3.2 MB/s   8m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  10 MB/1.6 GB  3.2 MB/s   8m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  10 MB/1.6 GB  3.2 MB/s   8m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  11 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  11 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  11 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  11 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  12 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  12 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  12 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  12 MB/1.6 GB  3.2 MB/s   8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  13 MB/1.6 GB  3.1 MB/s   8m30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  13 MB/1.6 GB  3.1 MB/s   8m30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  13 MB/1.6 GB  3.1 MB/s   8m30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  14 MB/1.6 GB  3.1 MB/s   8m30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  14 MB/1.6 GB  3.1 MB/s   8m30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  14 MB/1.6 GB  3.1 MB/s   8m30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  15 MB/1.6 GB  3.1 MB/s   8m29s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  15 MB/1.6 GB  3.1 MB/s   8m29s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  15 MB/1.6 GB  3.1 MB/s   8m29s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  15 MB/1.6 GB  3.1 MB/s   8m29s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  16 MB/1.6 GB  3.1 MB/s   8m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  16 MB/1.6 GB  3.1 MB/s   8m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  16 MB/1.6 GB  3.1 MB/s   8m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  17 MB/1.6 GB  3.1 MB/s   8m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  17 MB/1.6 GB  3.1 MB/s   8m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  17 MB/1.6 GB  3.1 MB/s   8m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  18 MB/1.6 GB  3.1 MB/s   8m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  18 MB/1.6 GB  3.1 MB/s   8m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  18 MB/1.6 GB  3.1 MB/s   8m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  18 MB/1.6 GB  3.1 MB/s   8m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  18 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  19 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  19 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  19 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  20 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  20 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  20 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  21 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  21 MB/1.6 GB  3.1 MB/s   8m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  21 MB/1.6 GB  3.1 MB/s   8m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  21 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  22 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  22 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  22 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  23 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  23 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   1% тЦХ                  тЦП  23 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  24 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  24 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  24 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  25 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  25 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  25 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  25 MB/1.6 GB  3.1 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  26 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  26 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  26 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  26 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  27 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  27 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  27 MB/1.6 GB  3.1 MB/s   8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  28 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  28 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  28 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  29 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  29 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  29 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  29 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:   2% тЦХ                  тЦП  30 MB/1.6 GB  3.0 MB/s   8m38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+[2026-05-10 20:10:19] [INFO] ============================================================
+[2026-05-10 20:10:19] [INFO] Запуск тихой массовой загрузки моделей Ollama
+[2026-05-10 20:10:19] [INFO] Лог: C:\Work\Prj_1_AI_Test\tools\download_models.log
+[2026-05-10 20:10:19] [INFO] Максимум попыток на модель: 3
+[2026-05-10 20:10:19] [INFO] Сырой прогресс ollama pull не выводится в консоль
+[2026-05-10 20:10:19] [INFO] ============================================================
+[2026-05-10 20:10:19] [OK] Ollama найден: C:\Users\Shuaib\AppData\Local\Programs\Ollama\ollama.exe
+[2026-05-10 20:10:19] [INFO] Начинаю загрузку: stable-code:3b | попытка 1 из 3
+[2026-05-10 20:12:06] [INFO] ============================================================
+[2026-05-10 20:12:06] [INFO] Запуск массовой загрузки моделей для скоринга
+[2026-05-10 20:12:06] [INFO] Лог: C:\Work\Prj_1_AI_Test\tools\download_models.log
+[2026-05-10 20:12:06] [INFO] Максимум попыток на модель: 3
+[2026-05-10 20:12:06] [INFO] ============================================================
+[2026-05-10 20:12:06] [OK] Ollama найден: C:\Users\Shuaib\AppData\Local\Programs\Ollama\ollama.exe
+[2026-05-10 20:12:06] [INFO] Начинаю загрузку: stable-code:3b | попытка 1 из 3
+[?2026h[?25l[1Gpulling manifest таЛ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЩ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╕ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та┤ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таж [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таз [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЗ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таП [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЛ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЩ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 198 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 199 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 199 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 199 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 200 MB/1.6 GB  1.2 MB/s  19m16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 200 MB/1.6 GB  1.2 MB/s  19m15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  12% тЦХтЦИтЦИ                тЦП 200 MB/1.6 GB  1.2 MB/s  19m15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 201 MB/1.6 GB  1.2 MB/s  19m15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 201 MB/1.6 GB  1.2 MB/s  19m15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 201 MB/1.6 GB  1.2 MB/s  19m14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 201 MB/1.6 GB  1.2 MB/s  19m14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 201 MB/1.6 GB  1.2 MB/s  19m14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 202 MB/1.6 GB  1.2 MB/s  19m14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 202 MB/1.6 GB  1.2 MB/s  19m13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 203 MB/1.6 GB  2.1 MB/s  11m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 203 MB/1.6 GB  2.1 MB/s  11m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 203 MB/1.6 GB  2.1 MB/s  11m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 203 MB/1.6 GB  2.1 MB/s  11m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 204 MB/1.6 GB  2.1 MB/s  11m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 204 MB/1.6 GB  2.1 MB/s   11m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 204 MB/1.6 GB  2.1 MB/s   11m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 204 MB/1.6 GB  2.1 MB/s   11m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 205 MB/1.6 GB  2.1 MB/s   11m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 205 MB/1.6 GB  2.1 MB/s   11m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 205 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 205 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 205 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 206 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 206 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 206 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 206 MB/1.6 GB  2.2 MB/s  10m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 206 MB/1.6 GB  2.2 MB/s  10m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 207 MB/1.6 GB  2.2 MB/s  10m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 207 MB/1.6 GB  2.2 MB/s  10m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 207 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 207 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 208 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 208 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 208 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 208 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 209 MB/1.6 GB  2.2 MB/s  10m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 210 MB/1.6 GB  2.2 MB/s  10m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 211 MB/1.6 GB  2.0 MB/s  11m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 211 MB/1.6 GB  2.0 MB/s  11m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 211 MB/1.6 GB  2.0 MB/s  11m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 211 MB/1.6 GB  2.0 MB/s  11m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 211 MB/1.6 GB  2.0 MB/s  11m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 212 MB/1.6 GB  2.0 MB/s  11m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 212 MB/1.6 GB  2.0 MB/s  11m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 212 MB/1.6 GB  2.0 MB/s  11m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 212 MB/1.6 GB  2.0 MB/s  11m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 213 MB/1.6 GB  2.0 MB/s  11m26s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 213 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 213 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 213 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 213 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 213 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 214 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 214 MB/1.6 GB  2.0 MB/s  11m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 214 MB/1.6 GB  2.0 MB/s  11m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 214 MB/1.6 GB  2.0 MB/s  11m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 215 MB/1.6 GB  2.0 MB/s  11m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 215 MB/1.6 GB  2.1 MB/s   11m5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 215 MB/1.6 GB  2.1 MB/s   11m5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 215 MB/1.6 GB  2.1 MB/s   11m5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 216 MB/1.6 GB  2.1 MB/s   11m5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 216 MB/1.6 GB  2.1 MB/s   11m5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 216 MB/1.6 GB  2.1 MB/s   11m5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  13% тЦХтЦИтЦИ                тЦП 217 MB/1.6 GB  2.1 MB/s   11m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 217 MB/1.6 GB  2.1 MB/s   11m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 217 MB/1.6 GB  2.1 MB/s   11m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 217 MB/1.6 GB  2.1 MB/s   11m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 218 MB/1.6 GB  2.1 MB/s  10m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 218 MB/1.6 GB  2.1 MB/s  10m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 218 MB/1.6 GB  2.1 MB/s  10m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 218 MB/1.6 GB  2.1 MB/s  10m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 219 MB/1.6 GB  2.1 MB/s  10m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 219 MB/1.6 GB  2.1 MB/s  10m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 219 MB/1.6 GB  2.1 MB/s  10m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 219 MB/1.6 GB  2.1 MB/s  10m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 220 MB/1.6 GB  2.1 MB/s  10m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 220 MB/1.6 GB  2.1 MB/s  10m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 220 MB/1.6 GB  2.1 MB/s  10m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 220 MB/1.6 GB  2.3 MB/s   10m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 221 MB/1.6 GB  2.3 MB/s   10m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 221 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 221 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 221 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 222 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 222 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 222 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 222 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 222 MB/1.6 GB  2.3 MB/s   10m7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 223 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 223 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 223 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 223 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 223 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 224 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 224 MB/1.6 GB  2.2 MB/s  10m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 224 MB/1.6 GB  2.2 MB/s  10m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 224 MB/1.6 GB  2.2 MB/s  10m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 225 MB/1.6 GB  2.2 MB/s  10m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 225 MB/1.6 GB  2.2 MB/s  10m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 225 MB/1.6 GB  2.2 MB/s  10m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 225 MB/1.6 GB  2.2 MB/s  10m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 225 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 226 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 226 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 226 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 226 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 226 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 227 MB/1.6 GB  2.2 MB/s  10m32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 227 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 227 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 227 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 228 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 228 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 228 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 228 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 228 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 229 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 229 MB/1.6 GB  2.2 MB/s  10m31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 229 MB/1.6 GB  2.2 MB/s  10m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 229 MB/1.6 GB  2.2 MB/s  10m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 229 MB/1.6 GB  2.2 MB/s  10m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 230 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 230 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 230 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 230 MB/1.6 GB  2.2 MB/s  10m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+[2026-05-10 20:12:24] [INFO] ============================================================
+[2026-05-10 20:12:24] [INFO] Запуск массовой загрузки моделей для скоринга
+[2026-05-10 20:12:24] [INFO] Лог: C:\Work\Prj_1_AI_Test\tools\download_models.log
+[2026-05-10 20:12:24] [INFO] Максимум попыток на модель: 3
+[2026-05-10 20:12:24] [INFO] ============================================================
+[2026-05-10 20:12:24] [OK] Ollama найден: C:\Users\Shuaib\AppData\Local\Programs\Ollama\ollama.exe
+[2026-05-10 20:12:24] [INFO] Начинаю загрузку: stable-code:3b | попытка 1 из 3
+[?2026h[?25l[1Gpulling manifest таЛ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таЩ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╕ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest та┤ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таж [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest таз [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 231 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 231 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 231 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 231 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 231 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 231 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 232 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 232 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 232 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 232 MB/1.6 GB                  [K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  14% тЦХтЦИтЦИ                тЦП 233 MB/1.6 GB  1.8 MB/s   13m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 233 MB/1.6 GB  1.8 MB/s   13m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 233 MB/1.6 GB  1.8 MB/s   13m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 233 MB/1.6 GB  1.8 MB/s   13m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 233 MB/1.6 GB  1.8 MB/s   13m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 234 MB/1.6 GB  1.8 MB/s   13m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 234 MB/1.6 GB  1.8 MB/s   13m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 2c0d857fd309:  15% тЦХтЦИтЦИ                тЦП 234 MB/1.6 GB  1.8 MB/s   13m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+[2026-05-10 20:12:33] [INFO] ============================================================
+[2026-05-10 20:12:33] [INFO] Запуск тихой массовой загрузки моделей Ollama
+[2026-05-10 20:12:33] [INFO] Лог: C:\Work\Prj_1_AI_Test\tools\download_models.log
+[2026-05-10 20:12:33] [INFO] Максимум попыток на модель: 3
+[2026-05-10 20:12:33] [INFO] Сырой прогресс ollama pull не выводится в консоль
+[2026-05-10 20:12:33] [INFO] ============================================================
+[2026-05-10 20:12:33] [OK] Ollama найден: C:\Users\Shuaib\AppData\Local\Programs\Ollama\ollama.exe
+[2026-05-10 20:12:34] [INFO] Начинаю загрузку: stable-code:3b | попытка 1 из 3
