@@ -7,6 +7,9 @@ venv/
 # Benchmark outputs
 model_performance_test.log
 model_benchmark_ai_report.md
+model_agent_test.log
+model_agent_ai_report.md
+agent_runs/
 *.db
 *.sqlite
 cars.db
